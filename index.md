@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Gaming@Random Mordhau Battle Royale
+
+Check out our [YouTube channel GamingAtRandom](https://www.youtube.com/c/GamingAtRandom)
 
 You can use the [editor on GitHub](https://github.com/cedgley/GaR-Mordhau/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
